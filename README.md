@@ -9,10 +9,9 @@
 - 📊 Interactive Dashboard
 - ✅ Task & Workflow Management
 - 🗂 Project Organization
-- 👥 Role-based Access Control (Admin / Member)
+- 👥 Role-based Access Control
 - 🔐 Authentication & Authorization
-- ⚡ Real-time Updates
-- 🎨 Minimal, Responsive UI (Light/Dark ready)
+- 🎨 Minimal, Responsive UI
 - 📈 Scalable Backend Architecture
 
 ---
@@ -23,15 +22,12 @@
 - React + TypeScript
 - Tailwind CSS
 - Vite
-- Zustand / Context API
+- Zustand
 
 ### Backend
 - Node.js + Express
 - Modular & scalable architecture
-- Business logic, validation, RBAC
 
 ### Database & Infra
 - Supabase (PostgreSQL)
 - Supabase Auth
-- Realtime Subscriptions
-- Relational Data Modeling
